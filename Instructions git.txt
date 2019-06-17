@@ -15,3 +15,17 @@ git pull
 git checkout -b nomNouvelleBranche
 
 touch nomFichier.txt
+
+
+
+git commit -m ""
+git push -u origine nomNouvelleBranche                           Ou git push
+
+
+
+git checkout nomBranche						Changement de branche
+
+
+
+
+								Fusionner les branches
